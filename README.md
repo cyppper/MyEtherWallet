@@ -7,7 +7,7 @@
 [![GitHub package version](https://img.shields.io/github/package-json/v/MyEtherWallet/MyEtherWallet.svg?style=flat-square)](https://github.com/MyEtherWallet/MyEtherWallet/blob/master/package.json) 
 ![GitHub contributors](https://img.shields.io/github/contributors/MyEtherWallet/MyEtherWallet.svg?style=flat-square) [![Codecov badge](https://img.shields.io/codecov/c/github/MyEtherWallet/MyEtherWallet/develop.svg?style=flat-square)](https://codecov.io/github/MyEtherWallet/MyEtherWallet?branch=develop)
 
-MyEtherWallet is a doorway to the Ethereum blockchain, allowing users to manage their own funds without a centralized platform. -_Stephen, #MEWForce_
+PRIVET KSUSHA is a doorway to the Ethereum blockchain, allowing users to manage their own funds without a centralized platform. -_Stephen, #MEWForce_
 
 !["MyEtherWallet Logo](./src/assets/images/mew-screen.png "MyEtherWallet")
 
